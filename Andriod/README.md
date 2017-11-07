@@ -9,3 +9,5 @@ Pimi_v1_merge - MyApplication_merge_app_cmn + Streaming_test
 Pimi_v2_Design - 예정
 
 
+# Pimi_v3 (UI /11.05)
+기존의 것에 UI Design을 추가하였음
