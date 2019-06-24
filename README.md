@@ -1,7 +1,7 @@
 # **Pimi**
 ## 졸업작품, 반려견 케어 프로그램- Pimi
 
-### Why did i choose this?
+### Why did i choose this.
 
 ### Development Environments.
 - Android
@@ -12,4 +12,6 @@
 ### Configuration.
 
 
-### What did i learn?
+### What did i learn.
+
+### What to do in the future.
